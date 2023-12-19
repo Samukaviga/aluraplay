@@ -1,0 +1,20 @@
+
+Texto nao quebra dentro do elemento
+white-space: nowrap; 
+
+Barra de rolagem dentro do elemento
+overflow: scroll;
+
+
+Seleciona as classes com memso nome separado pelo nth-child
+.menu__lista:nth-child(2),
+.menu__lista:nth-child(3),
+
+aligin self 
+    aplicado no item que deve ser alinhado e nao no elemento pai, pode ser um substituto do Align Item
+
+
+flex-grow: 1;
+    Adicionada no elemento filho para que 
+    o elemento se ajuste proporcionalmente ao elemento pai, ficando assim
+    responsivo e nao deixando espaços na tela*/
